@@ -1,6 +1,4 @@
-﻿using OpenClose.Bad;
-
-namespace SingleResponsibility.Good;
+﻿namespace OpenClose.Bad;
 
 public class InvoicePersistance
 {
